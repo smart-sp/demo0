@@ -1,0 +1,26 @@
+{
+  "domainsList": [
+    {
+      "domainName": "Campaign",
+      "levelValueList": [
+        {
+          "refId": "CAM",
+          "displayValue": "ROOT",
+          "level": 0,
+          "levelValueList": [
+      {
+        "refId": "BLACKF",
+        "displayValue": "Black Friday",
+        "level": 1
+      },
+      {
+        "refId": "NEWY",
+        "displayValue": "New Year Campaign",
+        "level": 1
+      }    
+          ]
+        }
+      ]
+    }
+  ]
+}
